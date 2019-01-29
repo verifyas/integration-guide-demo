@@ -1,0 +1,17 @@
+{
+  "name": "integration-guide",
+  "version": "1.0.0",
+  "description": "Verify Payments Integration Guide",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Pavel Gabriel",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
